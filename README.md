@@ -20,11 +20,6 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
     cd handwritten-digit-cnn
     ```
 
-2. **Install the required dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
