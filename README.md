@@ -16,7 +16,7 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/handwritten-digit-cnn.git
+    git clone https://github.com/DreamIsMl/handwritten-digit-cnn.git
     cd handwritten-digit-cnn
     ```
 
